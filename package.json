@@ -1,0 +1,36 @@
+{
+    "name": "auto-complete-tag",
+    "displayName": "Auto Complete Tag",
+    "description": "Extension Packs to add close tag and rename paired tag automatically for HTML/XML",
+    "version": "0.0.1",
+    "publisher": "formulahendry",
+    "icon": "images/logo.png",
+    "engines": {
+        "vscode": "^1.5.0"
+    },
+    "categories": [
+        "Extension Packs",
+        "Languages",
+        "Keymaps"
+    ],
+    "keywords": [
+        "rename",
+        "close",
+        "tag",
+        "html",
+        "xml"
+    ],
+    "bugs": {
+        "url": "https://github.com/formulahendry/vscode-auto-complete-tag/issues",
+        "email": "formulahendry@gmail.com"
+    },
+    "homepage": "https://github.com/formulahendry/vscode-auto-complete-tag/blob/master/README.md",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/formulahendry/vscode-auto-complete-tag.git"
+    },
+    "extensionDependencies": [
+        "formulahendry.auto-close-tag",
+        "formulahendry.auto-rename-tag"
+    ]
+}
