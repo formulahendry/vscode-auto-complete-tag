@@ -2,7 +2,7 @@
     "name": "auto-complete-tag",
     "displayName": "Auto Complete Tag",
     "description": "Extension Packs to add close tag and rename paired tag automatically for HTML/XML",
-    "version": "0.0.2",
+    "version": "0.1.0",
     "publisher": "formulahendry",
     "icon": "images/logo.png",
     "engines": {
@@ -10,7 +10,7 @@
     },
     "categories": [
         "Extension Packs",
-        "Languages"
+        "Programming Languages"
     ],
     "keywords": [
         "rename",
