@@ -28,7 +28,7 @@
         "type": "git",
         "url": "https://github.com/formulahendry/vscode-auto-complete-tag.git"
     },
-    "extensionPack": [
+    "extensionDependencies": [
         "formulahendry.auto-close-tag",
         "formulahendry.auto-rename-tag"
     ]
